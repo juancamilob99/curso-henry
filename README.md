@@ -1,2 +1,1 @@
-# curso-henry
-este en un repositorio de prueba 
+este es mi proyecto y es una prueba de como crearlo y clonarlo en mi pc 
